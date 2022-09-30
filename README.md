@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VitRezz
 - 👀 I’m interested in RPG and Blockchain
-- 🌱 I’m begin learning python
+- 🌱 I’m begin learning Terraform and DevOps tools
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - vit.rez@outlook.com
 
